@@ -1,8 +1,5 @@
-random
 numpy
 pandas
 surprise
-collections
 matplotlib
-copy
 lenskit
