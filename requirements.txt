@@ -5,3 +5,4 @@ surprise
 collections
 matplotlib
 copy
+lenskit
